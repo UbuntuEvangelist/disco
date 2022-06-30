@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "school-of-freelancing-72762",
-    "staging": "school-of-freelancing-72762"
+    "default": "freelancing-on-linux-1cebc",
+    "staging": "freelancing-on-linux-1cebc"
   },
   "targets": {}
 }

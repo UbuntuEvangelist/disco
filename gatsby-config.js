@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'OnDemand Linux HandsOn Training To Become Giant Linux Freelancer From Home',
+    title: 'Freelancing On Linux | School Of Freelancing',
     description: 'We Will Mentor You To Get Your Black Belt In Freelancing Earning. We Are On A Mission To Empower Linux Freelancing Training Around The Globe To Earn Money From Home.',
     author: '@AnythingLinux',
-    siteUrl: 'http://www.schooloffreelancing.com/',
+    siteUrl: 'https://www.schooloffreelancing.com/',
   },
   plugins: [
     'gatsby-plugin-netlify',
